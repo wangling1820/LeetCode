@@ -2,6 +2,7 @@
 // https://leetcode.com/problems/count-number-of-nice-subarrays/
 // Sliding Window 
 // 滑动窗口题集:等待补充
+
 class Solution {
     public int numberOfSubarrays(int[] nums, int k) {
         int ans = 0; // 结果
